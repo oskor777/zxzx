@@ -1,0 +1,29 @@
+.a{
+    background-color: rgb(129, 36, 36);
+}
+.b{
+    background-color: aqua;
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+}
+.g{
+color: white;
+}
+.f{
+     background-color: antiquewhite;
+
+    
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+}
+.FDFD{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
